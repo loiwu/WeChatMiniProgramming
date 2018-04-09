@@ -17,7 +17,7 @@
   "window":{
     "backgroundTextStyle":"light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "博客园小程序客户端",
+    "navigationBarTitleText": "好有趣 小程序客户端",
     "navigationBarTextStyle":"black",
     "enablePullDownRefresh":true
   },
